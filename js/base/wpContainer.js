@@ -1,0 +1,1 @@
+var wpContainer=function(){return function(i,n,t,s){this.index=i,this.Id=n,this.posX=t,this.posy=s}}();
